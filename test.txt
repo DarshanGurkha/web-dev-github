@@ -1,3 +1,3 @@
- this is my again a commit!
+ this is  another a commit!
 
  Now here we go to commit#2!
